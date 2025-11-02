@@ -3,6 +3,8 @@
 Write bugs that others can reproduce and fix on the first try.
 This repo includes **free sample pages** from the pack so you can copy and use them in your tracker.
 
+👉 Full pack on Gumroad (with category templates, evidence rules, handoff and retest checklists): https://emrekarakaya.gumroad.com/l/xzmkuo
+
 ## What is inside
 - Core bug template that teams actually read
 - One line Environment block that kills many follow-ups
